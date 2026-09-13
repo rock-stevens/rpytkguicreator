@@ -1,0 +1,32 @@
+## RPyTkGUICreator Versions
+
+Current Version: 1.1
+
+----
+
+### Version History
+
+RPyTkGUICreator v1.1
+
+Created a Release v1.1
+
+Added PyInstaller
+	 
+----
+
+### Version History
+
+RPyTkGUICreator v1.0
+
+First Python/Tkinter Version: Python Version: 3.10.8
+
+----
+
+### Version History
+
+RPyTkGUICreator v0.9
+
+Conversion from Tcl/Tk 8.4
+
+----
+
