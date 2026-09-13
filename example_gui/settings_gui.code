@@ -1,0 +1,6 @@
+{
+    "init": "# ---- INIT ----\n\n",
+    "main": "# ---- MAIN ----\n\n",
+    "pregui": "# ---- PRE-GUI ----\n\n",
+    "postgui": "# ---- POST-GUI ----\n\n"
+}

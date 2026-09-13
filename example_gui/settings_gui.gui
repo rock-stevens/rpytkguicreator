@@ -1,0 +1,280 @@
+{
+    "widgets": [
+        {
+            "type": "Label",
+            "x": 11,
+            "y": 11,
+            "name": "lblTitle",
+            "text": "Project Window Title",
+            "bg": "SystemButtonFace",
+            "fg": "SystemButtonText",
+            "width": 0,
+            "height": 0
+        },
+        {
+            "type": "Entry",
+            "x": 141,
+            "y": 11,
+            "name": "entTitle",
+            "text": "",
+            "bg": "SystemWindow",
+            "fg": "SystemWindowText",
+            "width": 50,
+            "height": ""
+        },
+        {
+            "type": "Label",
+            "x": 11,
+            "y": 41,
+            "name": "lblWinXSize",
+            "text": "Project Window X Size",
+            "bg": "SystemButtonFace",
+            "fg": "SystemButtonText",
+            "width": 0,
+            "height": 0
+        },
+        {
+            "type": "Entry",
+            "x": 142,
+            "y": 42,
+            "name": "entWinXSize",
+            "text": "",
+            "bg": "SystemWindow",
+            "fg": "SystemWindowText",
+            "width": 10,
+            "height": ""
+        },
+        {
+            "type": "Label",
+            "x": 11,
+            "y": 71,
+            "name": "lblWinYSize",
+            "text": "Project Window Y Size",
+            "bg": "SystemButtonFace",
+            "fg": "SystemButtonText",
+            "width": 0,
+            "height": 0
+        },
+        {
+            "type": "Entry",
+            "x": 142,
+            "y": 72,
+            "name": "entWinYSize",
+            "text": "",
+            "bg": "SystemWindow",
+            "fg": "SystemWindowText",
+            "width": 10,
+            "height": ""
+        },
+        {
+            "type": "Checkbutton",
+            "x": 231,
+            "y": 41,
+            "name": "chkAutoCenterWin",
+            "text": "Auto Center Project Window",
+            "bg": "SystemButtonFace",
+            "fg": "SystemWindowText",
+            "width": 0,
+            "height": 0
+        },
+        {
+            "type": "Label",
+            "x": 11,
+            "y": 111,
+            "name": "lblTopXPos",
+            "text": "Project Top X Position",
+            "bg": "SystemButtonFace",
+            "fg": "SystemButtonText",
+            "width": 0,
+            "height": 0
+        },
+        {
+            "type": "Label",
+            "x": 12,
+            "y": 142,
+            "name": "lblTopYPos",
+            "text": "Project Top Y Position",
+            "bg": "SystemButtonFace",
+            "fg": "SystemButtonText",
+            "width": 0,
+            "height": 0
+        },
+        {
+            "type": "Entry",
+            "x": 142,
+            "y": 112,
+            "name": "entTopXPos",
+            "text": "",
+            "bg": "SystemWindow",
+            "fg": "SystemWindowText",
+            "width": 10,
+            "height": ""
+        },
+        {
+            "type": "Entry",
+            "x": 141,
+            "y": 141,
+            "name": "entTopYPos",
+            "text": "",
+            "bg": "SystemWindow",
+            "fg": "SystemWindowText",
+            "width": 10,
+            "height": ""
+        },
+        {
+            "type": "Checkbutton",
+            "x": 231,
+            "y": 71,
+            "name": "chkWindowResizable",
+            "text": "Project Window Resizable",
+            "bg": "SystemButtonFace",
+            "fg": "SystemWindowText",
+            "width": 0,
+            "height": 0
+        },
+        {
+            "type": "Checkbutton",
+            "x": 231,
+            "y": 111,
+            "name": "chkAutoAddScrollBars",
+            "text": "Auto Add Scrollbars to Text and Listbox Widgets",
+            "bg": "SystemButtonFace",
+            "fg": "SystemWindowText",
+            "width": 0,
+            "height": 0
+        },
+        {
+            "type": "Checkbutton",
+            "x": 231,
+            "y": 141,
+            "name": "chkAddAutoFunctions",
+            "text": "Automatically Add Placeholder Functions for Widgets",
+            "bg": "SystemButtonFace",
+            "fg": "SystemWindowText",
+            "width": 0,
+            "height": 0
+        },
+        {
+            "type": "Label",
+            "x": 11,
+            "y": 181,
+            "name": "lblSnapToGrid",
+            "text": "Snap To Grid Size",
+            "bg": "SystemButtonFace",
+            "fg": "SystemButtonText",
+            "width": 0,
+            "height": 0
+        },
+        {
+            "type": "Entry",
+            "x": 151,
+            "y": 181,
+            "name": "entGridSize",
+            "text": "",
+            "bg": "SystemWindow",
+            "fg": "SystemWindowText",
+            "width": 10,
+            "height": ""
+        },
+        {
+            "type": "Label",
+            "x": 12,
+            "y": 212,
+            "name": "lblFontSizeButtons",
+            "text": "Font and Size Buttons",
+            "bg": "SystemButtonFace",
+            "fg": "SystemButtonText",
+            "width": 0,
+            "height": 0
+        },
+        {
+            "type": "Entry",
+            "x": 151,
+            "y": 211,
+            "name": "entFontSizeButtons",
+            "text": "",
+            "bg": "SystemWindow",
+            "fg": "SystemWindowText",
+            "width": 10,
+            "height": ""
+        },
+        {
+            "type": "Label",
+            "x": 11,
+            "y": 241,
+            "name": "lblFontNameEditor",
+            "text": "Font Name for Editor",
+            "bg": "SystemButtonFace",
+            "fg": "SystemButtonText",
+            "width": 0,
+            "height": 0
+        },
+        {
+            "type": "Entry",
+            "x": 151,
+            "y": 241,
+            "name": "entFontNameEditor",
+            "text": "",
+            "bg": "SystemWindow",
+            "fg": "SystemWindowText",
+            "width": 10,
+            "height": ""
+        },
+        {
+            "type": "Label",
+            "x": 11,
+            "y": 271,
+            "name": "lblFontSizeEditor",
+            "text": "Font Size for Editor",
+            "bg": "SystemButtonFace",
+            "fg": "SystemButtonText",
+            "width": 0,
+            "height": 0
+        },
+        {
+            "type": "Entry",
+            "x": 151,
+            "y": 271,
+            "name": "entFontSizeEditor",
+            "text": "",
+            "bg": "SystemWindow",
+            "fg": "SystemWindowText",
+            "width": 10,
+            "height": ""
+        },
+        {
+            "type": "Button",
+            "x": 381,
+            "y": 321,
+            "name": "btnOk",
+            "text": "Ok",
+            "bg": "SystemButtonFace",
+            "fg": "SystemButtonText",
+            "width": 8,
+            "height": 0
+        },
+        {
+            "type": "Button",
+            "x": 241,
+            "y": 321,
+            "name": "btnSave",
+            "text": "Save",
+            "bg": "SystemButtonFace",
+            "fg": "SystemButtonText",
+            "width": 8,
+            "height": 0
+        },
+        {
+            "type": "Button",
+            "x": 121,
+            "y": 321,
+            "name": "btnCancel",
+            "text": "Cencal",
+            "bg": "SystemButtonFace",
+            "fg": "SystemButtonText",
+            "width": 8,
+            "height": 0
+        }
+    ],
+    "menus": []
+}
