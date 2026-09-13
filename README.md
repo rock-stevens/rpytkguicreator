@@ -304,7 +304,7 @@ Saving a project, will save a '.gui' file (which is the 'main project' file), a 
   - '.cfg' file - Plain text file containing a copy of the 'Project Configuration' settings, when saved.
 
 
-Another thing about Rocks Python Tkinter GUI Creator is that if you use PyInstaller to create an EXE, all you need is the EXE you can deploy that to another computer and just run it once. One first run, it'll recreate the 'library.py' file, the 'theme.toml' file, and the 'config.txt' file in the local directory. 
+Another thing about Rocks Python Tkinter GUI Creator is that if you use PyInstaller to create an EXE, all you need is the EXE you can deploy that to another computer and just run it once. On first run, it'll recreate the 'library.py' file, the 'theme.toml' file, and the 'config.txt' file in the local directory. 
 
 
 To use RPyTkGUICreator.exe to run a python file:  
